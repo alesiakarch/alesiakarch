@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![hello there](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fobi-wan-hello-there&psig=AOvVaw0iT7Fr2U7xkY9S56QZNCE-&ust=1756567318190000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj6xaepsI8DFQAAAAAdAAAAABAE)
+
+
 <!--
 **alesiakarch/alesiakarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
