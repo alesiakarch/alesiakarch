@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![hello there](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fobi-wan-hello-there&psig=AOvVaw0iT7Fr2U7xkY9S56QZNCE-&ust=1756567318190000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj6xaepsI8DFQAAAAAdAAAAABAE)
+![hello there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5yMnJmM3A3MjZ2aHp6anh6cDBvZXZrcHF2bWZrZGk4eXZtZHJjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 
 <!--
